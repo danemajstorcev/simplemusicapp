@@ -1,0 +1,17 @@
+.artist-item{
+    position: relative;
+    margin-bottom: 15px;
+
+    img{
+        width: 500px;
+
+    }
+    span{
+        position: absolute;
+        left: 0;
+        bottom: 4px;
+        color: white;
+        background-color: rgb(92, 124, 220);
+        padding: 5px 10px;
+    }
+}

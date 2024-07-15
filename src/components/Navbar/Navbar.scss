@@ -1,0 +1,19 @@
+.navbar {
+    position: relative;
+    margin: 0;
+    padding: 0;
+
+  h1 {
+    color: white;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  img {
+    height: 300px;
+    border-bottom: 5px solid aqua;
+  }
+}

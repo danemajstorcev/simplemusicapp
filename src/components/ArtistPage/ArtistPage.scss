@@ -1,0 +1,20 @@
+.artist-page {
+  display: flex;
+  flex-direction: column;
+  background-color: lightgray;
+  align-items: center;
+  width: 533.33px;
+  .cover-image {
+    width: 300px;
+    margin-top: 50px;
+  }
+  p {
+    width: 400px;
+  }
+  .albums-container {
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+  }
+}
