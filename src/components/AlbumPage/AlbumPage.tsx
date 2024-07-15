@@ -2,7 +2,7 @@
 import React from "react";
 import "./AlbumPage.scss"
 import { useParams } from "react-router-dom";
-import { ArtistsProps, Album } from "../../types";
+import { ArtistsProps } from "../../types";
 import AlbumList from "../AlbumList/AlbumList";
 
 const AlbumPage: React.FC<ArtistsProps> = ({ artists }) => {

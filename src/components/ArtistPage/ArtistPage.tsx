@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import { ArtistsProps, Album } from "../../types";
+import { ArtistsProps } from "../../types";
 import AlbumList from "../AlbumList/AlbumList";
 import "./ArtistPage.scss";
 
